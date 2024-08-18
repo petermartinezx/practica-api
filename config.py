@@ -1,0 +1,2 @@
+# API de Exchange Rate API
+API_KEY = "7952bf87635f594444076483"
